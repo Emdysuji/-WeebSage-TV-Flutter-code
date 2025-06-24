@@ -31,7 +31,7 @@
 
 ## 📸 Screenshots
 
-![Screenshot](https://photos.google.com/share/AF1QipNF7zHCHcMy92NaWottfzwESFMtTpaXOQSxgIZRYebvXBmrhbPzsI29F-Vtm3ZLNg/photo/AF1QipOG97SaBddMaXRvrvfZYR5jbBPtss-3kqnM9bpQ?key=cWMzV1VyWDE0STZnWksyWG10QW5CYk9JTFQwMy13)
+<img src="./screenshots/Screenshot_20230522_201701.jpg" width="300">
 
 ---
 
